@@ -29,4 +29,4 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
 PRODUCT_NAME := full_grouper
 PRODUCT_DEVICE := grouper
 PRODUCT_BRAND := Android
-PRODUCT_MODEL := Full Android on Grouper
+PRODUCT_MODEL := HotdogROM Nexus 7
